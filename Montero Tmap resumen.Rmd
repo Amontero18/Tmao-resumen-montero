@@ -1,0 +1,10 @@
+---
+title: "Tmap"
+author: "Adrian Montero Navarro"
+date: "31/1/2022"
+output: github_document
+---
+
+\*\*\*¿Qué es y par que sirve Tmap?
+
+De acuerdo al nombre que proviene de thematic map, tmap es un paquete que sirve para la creación de mapas tematicos en R viniendo de por si datos globales para la creación de mapas, además de ellos tambien se pueden usar datos de otras fuentes
